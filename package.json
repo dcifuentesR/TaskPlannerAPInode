@@ -1,0 +1,19 @@
+{
+  "name": "task-planner-api-node",
+  "version": "1.0.0",
+  "description": "task planner api node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcifuentesR/TaskPlannerAPInode.git"
+  },
+  "author": "Daniel Cifuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcifuentesR/TaskPlannerAPInode/issues"
+  },
+  "homepage": "https://github.com/dcifuentesR/TaskPlannerAPInode#readme"
+}
